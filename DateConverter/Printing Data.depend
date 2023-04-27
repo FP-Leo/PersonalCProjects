@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663635943 source:c:\users\user\desktop\my stuff\programming\c folder\printing data\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1663635943 source:g:\other computers\my laptop\my stuff\programming\c folder\printing data\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
