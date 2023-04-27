@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1663902461 source:c:\users\user\desktop\my stuff\programming\c folder\check protection\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
