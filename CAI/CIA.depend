@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658597038 source:c:\users\user\desktop\my stuff\programming\c folder\cia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
