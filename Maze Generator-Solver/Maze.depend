@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1662571289 source:c:\users\user\desktop\my stuff\programming\c folder\maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
+1665506952 source:c:\users\user\desktop\my stuff\programming\c folder\maze generator-solver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
+1665506952 source:g:\other computers\my laptop\my stuff\programming\c folder\maze generator-solver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
