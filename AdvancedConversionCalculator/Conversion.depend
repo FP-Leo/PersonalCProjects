@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1665507486 source:c:\users\user\desktop\my stuff\programming\c folder\conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+
