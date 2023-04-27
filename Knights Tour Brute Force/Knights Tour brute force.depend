@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658775386 source:c:\users\user\desktop\my stuff\programming\c folder\knights tour brute force\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
