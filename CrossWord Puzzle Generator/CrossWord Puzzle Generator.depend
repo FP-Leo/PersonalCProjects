@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1665848501 source:c:\users\user\desktop\my stuff\programming\c folder\crossword puzzle generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1665848764 source:g:\other computers\my laptop\my stuff\programming\c folder\crossword puzzle generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
