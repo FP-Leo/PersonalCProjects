@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1659861996 source:c:\users\user\desktop\my stuff\programming\c folder\poker game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1659861996 source:g:\other computers\my laptop\my stuff\programming\c folder\poker game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
