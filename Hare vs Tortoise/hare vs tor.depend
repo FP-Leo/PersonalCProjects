@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1654377894 source:c:\users\user\desktop\my stuff\programming\c folder\hare vs tor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1662859568 source:g:\other computers\my laptop\my stuff\programming\c folder\hare vs tortoise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
