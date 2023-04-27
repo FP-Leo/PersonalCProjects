@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1661797366 source:c:\users\user\desktop\my stuff\programming\c folder\card dealing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1661797366 source:g:\other computers\my laptop\my stuff\programming\c folder\card dealing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1661797366 source:g:\other computers\my laptop\my stuff\programming\c folder\advancedcarddealinggamevsai\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
