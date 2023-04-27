@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1675545512 source:c:\users\user\desktop\my stuff\programming\c folder\banking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
+1675545633 source:g:\other computers\my laptop\my stuff\programming\c folder\banking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<conio.h>
+	<ctype.h>
+
