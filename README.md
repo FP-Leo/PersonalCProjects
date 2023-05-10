@@ -3,7 +3,7 @@
 
 ## *Leonit Shabani*
 
-**Explanation** A collection of some projects in different programming languages. 
+**Explanation** - A collection of some projects in the C language. 
 
 Time spent: **Unknown** hours spent in total
 
@@ -31,6 +31,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 All things seen here written by me.
 I try my best to avoid taking code from internet, and instead focus on original solutions to problems I encounter.
+Some algorithms took an hour or two to solve, while there are those that took atleast a month to solve.
 
 ## License
 
