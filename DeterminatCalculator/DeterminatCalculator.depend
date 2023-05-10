@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683744752 source:c:\users\leo\desktop\github\presonalcprojects\determinatcalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
