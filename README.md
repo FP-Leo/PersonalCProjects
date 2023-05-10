@@ -1,41 +1,40 @@
 # PresonalCProjects
 # Tip Calculator 
 
-## *Your name here*
+## *Leonit Shabani*
 
-**Tippy** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
+**Explanation** A collection of some projects in different programming languages. 
 
-Time spent: **X** hours spent in total
+Time spent: **Unknown** hours spent in total
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [x] User can enter in a bill amount (total amount to tip on)
-* [x] User can enter a tip percentage (what % the user wants to tip).
-* [x] The tip and total amount are updated immediately when any of the inputs changes.
-* [x] The user sees a label or color update based on the tip amount. 
+* [x] 
+* [x] 
+* [x] 
+* [x]
 
 The following **extensions** are implemented:
 
-* [ ] Custom colors palette selected
+* [ ]
 * [ ] List anything else that you did to improve the app functionality or design!
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+All things seen here written by me.
+I try my best to avoid taking code from internet, and instead focus on original solutions to problems I encounter.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Leonit Shabani]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
