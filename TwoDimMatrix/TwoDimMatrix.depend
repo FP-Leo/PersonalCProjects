@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683327019 source:g:\other computers\my laptop\my stuff\programming\c folder\twodimmatrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
